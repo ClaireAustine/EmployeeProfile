@@ -4,6 +4,12 @@ function createTeam(team){
         function createManager(manager){
             return ``
         }
+        function createEngineer(engineer){
+            return ``
+        }
+        function createIntern(intern){
+            return ``
+        }
 
     const html = [];
 
